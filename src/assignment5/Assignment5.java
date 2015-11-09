@@ -109,3 +109,11 @@ public class Assignment5 {
 
     }
 }
+
+run:
+
+Words found: 937492
+Words not found: 54648
+Average number of comparisons found: 468746
+Average number of comparisons not found: 441326
+BUILD SUCCESSFUL (total time: 51 seconds)
